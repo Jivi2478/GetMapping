@@ -1,6 +1,6 @@
-*Open the project in STS and Run it.*
-*Open Postman, *
-*add the below text in in Body tab, raw format:*
+* Open the project in STS and Run it.*
+* Open Postman, *
+* add the below text in in Body tab, raw format:*
  * {
     "email":"user1@gmail.com",
     "password":"User1@123"
