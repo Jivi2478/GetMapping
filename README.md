@@ -5,5 +5,5 @@
     "email":"user1@gmail.com",
     "password":"User1@123"
 }*
-*Send Get request to " http://localhost:8080/hello "*
+* Send Get request to " http://localhost:8080/hello "*
 * You will receive Hello, World! as output *
